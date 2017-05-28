@@ -1,0 +1,40 @@
+﻿l_english:
+ BHS_conservatism:0 "Commonwealth of the Bahamas"
+ BHS_conservatism_DEF:0 "The Commonwewalth of the Bahamas"
+ BHS_conservatism_ADJ:0 "Bahamian"
+
+ BRB_socialism:0 "Barbados"
+ BRB_socialism_DEF:0 "Barbados"
+ BRB_socialism_ADJ:0 "Barbadian"
+
+ COM_social_democracy:0 "Union of the Comoros"
+ COM_social_democracy_DEF:0 "The Union of the Comoros"
+ COM_social_democracy_ADJ:0 "Comorian"
+
+ CPV_liberalism:0 "Republic of Cabo Verde"
+ CPV_liberalism_DEF:0 "The Republic of Cabo Verde"
+ CPV_liberalism_ADJ:0 "Cape Verdean"
+
+ FJI_neutrality:0 "Republic of Fiji"
+ FJI_neutrality_DEF:0 "The Republic of Fiji"
+ FJI_neutrality_ADJ:0 "Fijian"
+
+ FSM_neutrality:0 "Federated States of Micronesia"
+ FSM_neutrality_DEF:0 "The Federated States of Micronesia"
+ FSM_neutrality_ADJ:0 "Micronesian"
+
+ IDN_islamism:0 "Republic of Indonesia"
+ IDN_islamism_DEF:0 "The Republic of Indonesia"
+ IDN_islamism_ADJ:0 "Indonesian"
+
+ JPN_conservatism:0 "Japan"
+ JPN_conservatism_DEF:0 "Japan"
+ JPN_conservatism_ADJ:0 "Japanese"
+
+ NRU_neutrality:0 "Republic of Nauru"
+ NRU_neutrality_DEF:0 "The Republic of Nauru"
+ NRU_neutrality_ADJ:0 "Nauran"
+
+ PHL_neutrality:0 "Republic of the Philippines"
+ PHL_neutrality_DEF:0 "The Republic of the Philippines"
+ PHL_neutrality_ADJ:0 "Filipino"
