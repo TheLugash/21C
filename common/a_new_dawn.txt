@@ -1,0 +1,41 @@
+bookmarks = {
+	bookmark = {
+		name = "A_NEW_DAWN_NAME"
+		desc = "A_NEW_DAWN_DESC"
+		date = 2000.1.1.12
+		picture = "GFX_select_date_1939"
+		default_country = "IDN"
+
+		IDN = {
+			history = IDN_A_NEW_DAWN_DESC
+			ideology = islamism
+			ideas={
+			}
+			focuses = {
+			}
+		}
+
+		JPN = {
+			history = JPN_A_NEW_DAWN_DESC
+			ideology = conservatism
+			ideas={
+			}
+			focuses = {
+			}
+		}
+
+		PHL = {
+			history = PHL_A_NEW_DAWN_DESC
+			ideology = neutrality
+			ideas={
+			}
+			focuses = {
+			}
+		}
+
+		effect = {
+			randomize_weather = 12345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}
