@@ -1,0 +1,42 @@
+#reload countrycolors
+
+BHS = {
+	color = rgb { 0 171 201 }
+	color_ui = rgb { 0 171 201 }
+}
+BRB = {
+	color = rgb { 0 38 127 }
+	color_ui = rgb { 0 38 127 }
+}
+COM = {
+	color = rgb { 61 142 51 }
+	color_ui = rgb { 61 142 51 }
+}
+CPV = {
+	color = rgb { 0 56 147 }
+	color_ui = rgb { 0 56 147 }
+}
+FJI = {
+	color = rgb { 104 191 229 }
+	color_ui = rgb { 104 191 229 }
+}
+FSM = {
+	color = rgb { 117 178 221 }
+	color_ui = rgb { 117 178 221 }
+}
+IDN = {
+	color = rgb { 206 17 38 }
+	color_ui = rgb { 206 17 38 }
+}
+JPN = {
+	color = rgb { 255 255 255 }
+	color_ui = rgb { 255 255 255 }
+}
+NRU = {
+	color = rgb { 0 43 127 }
+	color_ui = rgb { 0 43 127 }
+}
+PHL = {
+	color = rgb { 252 209 22 }
+	color_ui = rgb { 252 209 22 }
+}
