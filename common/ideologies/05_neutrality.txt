@@ -1,0 +1,45 @@
+ideologies = {
+
+  neutrality = {
+
+    types = {
+      centrism = {
+      }
+
+      independent = {
+      }
+
+      populism = {
+      }
+    }
+
+    dynamic_faction_names = {
+      "FACTION_NAME_NEUTRAL_1"
+      "FACTION_NAME_NEUTRAL_2"
+      "FACTION_NAME_NEUTRAL_3"
+      "FACTION_NAME_NEUTRAL_4"
+      "FACTION_NAME_NEUTRAL_5"
+      "FACTION_NAME_NEUTRAL_6"
+    }
+
+    color = { 128 128 128 }
+
+    rules = {
+      can_declare_war_on_same_ideology = yes
+      can_force_government = yes
+      can_send_volunteers = yes
+      can_puppet = yes
+      can_lower_tension = yes
+      can_only_justify_war_on_threat_country = no
+      can_guarantee_other_ideologies = yes
+    }
+
+    war_impact_on_world_tension = 0.25
+    faction_impact_on_world_tension = 0.1
+
+    can_be_boosted = no
+    can_collaborate = yes
+
+    ai_neutral = yes
+  }
+}
