@@ -1,0 +1,31 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_ideology_christian_democracy_group"
+		texturefile = "gfx/interface/ideologies/christian_democracy_group.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_conservatism_group"
+		texturefile = "gfx/interface/ideologies/conservatism_group.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_islamism_group"
+		texturefile = "gfx/interface/ideologies/islamism_group.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_liberalism_group"
+		texturefile = "gfx/interface/ideologies/liberalism_group.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_social_democracy_group"
+		texturefile = "gfx/interface/ideologies/social_democracy_group.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_socialism_group"
+		texturefile = "gfx/interface/ideologies/socialism_group.dds"
+	}
+}
