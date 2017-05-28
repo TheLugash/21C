@@ -1,0 +1,53 @@
+capital = 708 #Cape Verde - Praia
+
+oob = "COM_2000"
+
+set_convoys = 5
+
+set_politics = {
+
+	parties = {
+		christian_democracy = {
+			popularity = 0
+		}
+
+		conservatism = {
+			popularity = 0
+		}
+
+		islamism = {
+			popularity = 0
+		}
+
+		liberalism = {
+			popularity = 100
+		}
+
+		neutrality = {
+			popularity = 0
+		}
+
+    social_democracy = {
+      popularity = 0
+    }
+
+    socialism = {
+      popularity = 0
+    }
+	}
+	ruling_party = liberalism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "António Mascarenhas Monteiro"
+	desc = ""
+	picture = "Portrait_Cape_Verde_Antonio_Mascarenhas_Monteiro.dds"
+	expire = "1965.1.1"
+	ideology = liberalism_type
+	traits = {
+		#
+	}
+}

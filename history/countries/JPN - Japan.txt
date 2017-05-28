@@ -1,0 +1,53 @@
+capital = 282 #Japan - Tokyo
+
+oob = "JPN_2000"
+
+set_convoys = 5
+
+set_politics = {
+
+	parties = {
+		christian_democracy = {
+			popularity = 0
+		}
+
+		conservatism = {
+			popularity = 100
+		}
+
+		islamism = {
+			popularity = 0
+		}
+
+		liberalism = {
+			popularity = 0
+		}
+
+		neutrality = {
+			popularity = 0
+		}
+
+    social_democracy = {
+      popularity = 0
+    }
+
+    socialism = {
+      popularity = 0
+    }
+	}
+	ruling_party = conservatism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Keizō Obuchi"
+	desc = ""
+	picture = "Portrait_Japan_Keizo_Obuchi.dds"
+	expire = "1965.1.1"
+	ideology = national_conservatism
+	traits = {
+		#
+	}
+}
