@@ -1,0 +1,26 @@
+state={
+	id=743
+	name="STATE_743"
+	provinces={
+		11350
+	}
+
+	state_category = large_city
+
+	history={
+		owner = BRB
+		victory_points = {
+			11350 5
+		}
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+			11350 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = BRB
+	}
+	manpower=269838
+}

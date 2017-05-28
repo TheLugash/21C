@@ -1,0 +1,24 @@
+state={
+	id=702
+	name="STATE_702"
+	provinces={
+		13014
+	}
+
+	state_category = small_island
+
+	history={
+		owner = CPV
+		victory_points = {
+			13014 5
+		}
+		buildings = {
+			infrastructure = 3
+			13014 ={
+				naval_base = 1
+			}
+		}
+		add_core_of = CPV
+	}
+	manpower = 438737
+}

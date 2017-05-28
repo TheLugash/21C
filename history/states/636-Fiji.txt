@@ -1,0 +1,26 @@
+state={
+	id=636
+	name="STATE_636"
+	provinces={
+		4286 7302 12159
+	}
+
+	state_category = small_island
+
+	history={
+		owner = FJI
+		victory_points = {
+			4286 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+			4286 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = FJI
+	}
+	manpower = 811223
+}
