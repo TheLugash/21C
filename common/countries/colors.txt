@@ -24,6 +24,10 @@ FSM = {
 	color = rgb { 117 178 221 }
 	color_ui = rgb { 117 178 221 }
 }
+GBR = {
+	color = rgb { 207 20 43 }
+	color_ui = rgb { 207 20 43 }
+}
 IDN = {
 	color = rgb { 206 17 38 }
 	color_ui = rgb { 206 17 38 }
@@ -40,7 +44,4 @@ PHL = {
 	color = rgb { 252 209 22 }
 	color_ui = rgb { 252 209 22 }
 }
-GBR = {
-	color = rgb { 207 20 43 }
-	color_ui = rgb { 207 20 43 }
-}
+
