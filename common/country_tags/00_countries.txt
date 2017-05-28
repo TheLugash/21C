@@ -1,5 +1,5 @@
 BHS = "countries/Bahamas.txt"
-BRB	= "countries/Barbados.txt"
+BRB = "countries/Barbados.txt"
 COM = "countries/Comoros.txt"
 CPV = "countries/Cape Verde.txt"
 FJI = "countries/Fiji.txt"
